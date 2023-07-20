@@ -12,7 +12,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-ul.work {
+ul.work, ul.edu {
   list-style-type: square;
 }
 a {
