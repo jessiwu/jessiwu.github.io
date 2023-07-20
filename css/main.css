@@ -12,7 +12,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-ul.square {
+ul li.square {
   list-style-type: none;
   font-size: 18px;
   margin-top: 5px;
