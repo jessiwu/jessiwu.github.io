@@ -13,12 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 ul.square {
-  list-style-type: none;
-  font-size: 40px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-right: 5px;
-  margin-left: 5px;
+  list-style-type: square;
 }
 a {
     text-decoration: none;
